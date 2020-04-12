@@ -3,6 +3,8 @@
 Dark theme based of the VSCode theme
 [Phantom Code](https://marketplace.visualstudio.com/items?itemName=tourervit.phantom).
 
+This is a modified version of fantom-theme. It has a cleaner appearance in org-mode.
+
 ## Installation
 
 Fantom is available in MELPA
